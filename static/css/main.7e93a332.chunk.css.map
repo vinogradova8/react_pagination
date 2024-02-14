@@ -1,1 +1,0 @@
-{"version":3,"sources":["webpack://src/App.css"],"names":[],"mappings":"AACA,cACE,UACF","file":"main.7e93a332.chunk.css","sourcesContent":["/* not empty */\n.form-control {\n  width: auto;\n}\n\n/* li.disabled a[aria-disabled=\"true\"] {\n  pointer-events: none;\n} */\n"]}
